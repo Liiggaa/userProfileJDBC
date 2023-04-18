@@ -32,6 +32,46 @@ After logging in, the following options are available:
 
 ## Project screenshots:
 
+*Login*
+<div>
+  <img src="images/login.png" alt="Screenshot of Login" width="600" style="display: inline-block;">
+ </div>
+ 
+ *Sign up*
+<div>
+  <img src="images/signup.png" alt="Screenshot of Sign up" width="600" style="display: inline-block;">
+</div>
+
+ *Sign up failed*
+<div>
+  <img src="images/signup-failed.png" alt="Screenshot of Sign up failed" width="600" style="display: inline-block;">
+</div>
+
+ *User profile*
+<div>
+  <img src="images/user-profile.png" alt="Screenshot of User profile" width="600" style="display: inline-block;">
+</div>
+
+*User profile updated*
+<div>
+  <img src="images/profile-updated.png" alt="Screenshot of User profile updated" width="600" style="display: inline-block;">
+</div>
+
+*User profile update-failed*
+<div>
+  <img src="images/update-user-profile-failed.png" alt="Screenshot of User profile update-failed" width="600" style="display: inline-block;">
+</div>
+
+*Chat*
+<div>
+  <img src="images/chat.png" alt="Screenshot of Chat" width="600" style="display: inline-block;">
+</div>
+
+*Delete account*
+<div>
+  <img src="images/delete-account.png" alt="Screenshot of Delete-account" width="600" style="display: inline-block;">
+</div>
+
 ## Setup Instructions:
 
 * Import the project into your preferred Java IDE.
